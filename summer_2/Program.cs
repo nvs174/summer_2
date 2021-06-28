@@ -10,6 +10,7 @@ namespace summer_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("привет мир");
         }
     }
 }
